@@ -1,31 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;500;600;700&display=swap');
 
-/* ─── Ocultar elementos de MkDocs ─── */
-.md-sidebar,
-.md-sidebar--primary,
-.md-sidebar--secondary,
-.md-nav__title,
-.md-header,
-.md-footer,
-.md-tabs {
-  display: none !important;
-}
-
-.md-content {
-  margin: 0 !important;
-  max-width: 100% !important;
-}
-
-.md-main__inner {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.md-content__inner {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
 /* ─── Variables ─── */
 :root {
   --utpl-blue:    #003366;
